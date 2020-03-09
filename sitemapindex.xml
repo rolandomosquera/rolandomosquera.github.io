@@ -6,39 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://rolandomosquera.github.io/categories/blog.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rolandomosquera.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rolandomosquera.github.io/categories/demo.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rolandomosquera.github.io/categories/nikola.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://rolandomosquera.github.io/categories/python.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://rolandomosquera.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
+  <lastmod>2020-03-09T17:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rolandomosquera.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
+  <lastmod>2020-03-09T17:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rolandomosquera.github.io/rss.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
+  <lastmod>2019-10-30T17:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://rolandomosquera.github.io/sitemap.xml</loc>
-  <lastmod>2019-10-30T14:07:00Z</lastmod>
+  <lastmod>2020-03-09T17:54:00Z</lastmod>
  </sitemap>
 </sitemapindex>
