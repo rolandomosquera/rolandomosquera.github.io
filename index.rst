@@ -8,3 +8,5 @@
 .. type: text
 
 Un site web pour présenter mon travail.
+
+Consultez mes `publications </publis.html>`_
