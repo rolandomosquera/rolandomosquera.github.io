@@ -1,5 +1,5 @@
 .. title: Publications
-.. slug: publications
+.. slug: publis
 .. date: 2019-10-30 15:46:08 UTC+01:00
 .. tags: 
 .. category: 
